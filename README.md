@@ -21,7 +21,7 @@ The script automatically handles JWT structural requirements:
 Ensure you have Python 3.x installed. Run the script from your terminal:
 
 ```bash
-python tool.py
+python poc.py
 ```
 
 ### Flow
